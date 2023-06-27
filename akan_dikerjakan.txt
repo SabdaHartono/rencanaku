@@ -1,3 +1,5 @@
 Meluncurkan versi 1 yaitu komputer catur yang belum dilengkapi dengan history
 Meluncurkan versi 2 yaitu komputer catur yang sudah dilengkapi dengan history
 Meluncurkan versi 3 yaitu komputer catur yang mempunyai evaluation function yang sudah diperbaiki
+Membuat komputer dengan led pada tiap square
+Membuat komputer dengan sensor ldr
